@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 gem 'juandpineiro_palindrome',  '0.2.1'
 gem 'rerun',                    '0.13.0'
-gem 'sinatra',                  '2.0.3'
+gem 'sinatra',                  '2.2.3'
 
 group :test do
   gem 'capybara'
